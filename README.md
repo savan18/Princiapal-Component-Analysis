@@ -1,4 +1,4 @@
-# Princiapl-Compopnent-Analysis
+# Princiapal-Component-Analysis
 1.Analysis of data for PCA and make missing value handling and see how many mising values and then and column data types
 2.Apply PCA and see the visualization using print PCA
 3.plotting PCA and make it undertandable
